@@ -1,0 +1,96 @@
+{
+    "person": {
+        "name": "John Doe",
+        "email": "johndoe@gmail.com",
+        "phone": "2345678901",
+        "address": "New Delhi, Delhi, India",
+        "linkedin": "www.linkedin.com",
+        "github": "www.github.com",
+        "objective": "",
+        "photo_path": ""
+    },
+    "educations": [
+        {
+            "degree": "Btech-CSE",
+            "institution": "IIT-BHU",
+            "passing_year": "2026",
+            "cgpa": "8.9"
+        }
+    ],
+    "experiences": [
+        {
+            "job_title": "Intern",
+            "company": "Oracle",
+            "location": "Noida",
+            "start_date": "may,2025",
+            "end_date": "aug,2025",
+            "description": ""
+        },
+        {
+            "job_title": "Data Analyst",
+            "company": "AWS",
+            "location": "Bengaluru",
+            "start_date": "May,2026",
+            "end_date": "Present",
+            "description": ""
+        }
+    ],
+    "projects": [
+        {
+            "title": "Resume Builder",
+            "tech_stack": "Python, Tkinter",
+            "duration": "2024",
+            "description": "",
+            "link": "uytrgghjhuhynhyhyujbyuk"
+        },
+        {
+            "title": "AI Stock Analyser",
+            "tech_stack": "HTML, CSS, Javascript, Python",
+            "duration": "2025",
+            "description": "",
+            "link": "wqwertyppoiuyffghj"
+        }
+    ],
+    "skills": [
+        {
+            "skill_name": "HTML"
+        },
+        {
+            "skill_name": "CSS"
+        },
+        {
+            "skill_name": "Javascript"
+        },
+        {
+            "skill_name": "Python"
+        },
+        {
+            "skill_name": "Java"
+        },
+        {
+            "skill_name": "C"
+        },
+        {
+            "skill_name": "Cpp"
+        }
+    ],
+    "certifications": [
+        {
+            "certificate_name": "Fundamentals of AI",
+            "organization": "Infosys SpringBoard",
+            "completion_year": "2024"
+        },
+        {
+            "certificate_name": "DSA using Python",
+            "organization": "Infosys Springboard",
+            "completion_year": "2024"
+        },
+        {
+            "certificate_name": "Digital Edge 101",
+            "organization": "FutureSkills",
+            "completion_year": "2025"
+        }
+    ],
+    "template": "classic",
+    "created_at": "2026-06-28 15:34"
+}
