@@ -13,7 +13,6 @@ ResumeBuilder/
 ├── models.py            # Data classes: Person, Education, Skill, Certification, Resume
 ├── file_manager.py      # JSON save/load (FileManager class)
 ├── resume_generator.py  # Export orchestration (ResumeGenerator class)
-├── requirements.txt     # pip dependencies
 ├── assets/              # Place custom icons/images here
 ├── data/                # Auto-created — stores saved JSON resumes
 └── resumes/             # Auto-created — stores exported TXT/PDF files
